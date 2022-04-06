@@ -15,7 +15,7 @@ export const Layout = () => {
               urlActual === "/clientes" ? "text-blue-300" : "text-white"
             } 
             text-2xl block mt-2 hover:text-blue-300`}
-            to="/clientes"
+            to="/"
           >
             Clientes
           </Link>
@@ -24,7 +24,7 @@ export const Layout = () => {
               urlActual === "/clientes/nuevo" ? "text-blue-300" : "text-white"
             } 
            text-2xl block mt-2 hover:text-blue-300`}
-            to="/clientes/nuevo"
+            to="/nuevo"
           >
             Nuevo Cliente
           </Link>

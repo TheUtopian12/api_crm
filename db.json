@@ -1,12 +1,20 @@
 {
   "clientes": [
     {
-      "nombre": "Edwin Castruita",
-      "empresa": "CEDWY",
+      "nombre": "Edwin Gerardo",
+      "empresa": "Cedwy",
       "email": "edwi.castruita117@gmail.com",
       "telefono": "4929008841",
-      "notas": "Cliente Recomendado",
+      "notas": "",
       "id": 1
+    },
+    {
+      "nombre": "Cecy Mejia",
+      "empresa": "Cedwy",
+      "email": "edwi.castruita117@gmail.com",
+      "telefono": "11212212122112",
+      "notas": "",
+      "id": 2
     }
   ]
 }
